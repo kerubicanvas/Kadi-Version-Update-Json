@@ -6,63 +6,60 @@
     "start_hour": 17,
     "end_hour": 20,
     "timezone": "EAT",
-
     "messages": {
       "weekend": {
         "title": "Weekend Bonus Vibes!",
-        "body": "It’s the weekend! Play 3 games & earn 50 bonus points!"
+        "body": "It’s the weekend! Play 9 games & earn 100 bonus points!"
       },
       "evening_rush": {
         "title": "Traffic Bonus",
-        "body": "Stuck in traffic? Make it fun! Play 3 games between 5pm-8pm to earn 30 extra points!"
+        "body": "Stuck in traffic? Make it fun! Play 3 games between 5pm-8pm to earn 50 extra points!"
+      },
+      "test_code": {
+        "date": "2025-05-06",
+        "title": "Test Triggered",
+        "body": "This is a test popup for today."
       }
     },
-
-    "test_code": {
-      "date": "2025-05-06",
-      "title": "Test Triggered",
-      "body": "This is a test popup for today."
-    },
-
     "public_holidays": [
       {
         "date": "2025-01-01",
         "name": "New Year's Day",
         "message": {
           "title": "Happy New Year!",
-          "body": "Enjoy 50 bonus points to kick start your year!"
+          "body": "Enjoy your New Year's gift of 30 points!"
         }
       },
       {
         "date": "2025-04-01",
         "name": "Easter Monday",
         "message": {
-          "title": "Easter Monday Special",
-          "body": "Enjoy bonus points all day as you celebrate!"
+          "title": "Easter Monday Special!",
+          "body": "Enjoy your Easter Monday gift of 30 points!"
         }
       },
       {
         "date": "2025-05-01",
         "name": "Labour Day",
         "message": {
-          "title": "Labour Day Bonus",
-          "body": "Rest easy! Play 3 games & earn 50 bonus points!"
+          "title": "Labour Day Bonus!",
+          "body": "Enjoy your Labour Day gift of 30 points!"
         }
       },
       {
         "date": "2025-06-01",
         "name": "Madaraka Day",
         "message": {
-          "title": "Madaraka Day Rewards",
-          "body": "Celebrating freedom! Play 3 games & earn 50 bonus points!"
+          "title": "Madaraka Day Rewards!",
+          "body": "Enjoy your Madaraka Day gift of 30 points!"
         }
       },
       {
         "date": "2025-10-10",
         "name": "Huduma Day",
         "message": {
-          "title": "Huduma Day Gift",
-          "body": "Play 3 games & earn 50 bonus points!"
+          "title": "Huduma Day Gift!",
+          "body": "Enjoy your Huduma Day gift of 30 points!"
         }
       },
       {
@@ -70,15 +67,15 @@
         "name": "Mashujaa Day",
         "message": {
           "title": "Happy Mashujaa Day!",
-          "body": "You’re a hero! Play 3 games & earn 50 bonus points!"
+          "body": "Enjoy your Mashujaa Day gift of 30 points!"
         }
       },
       {
         "date": "2025-12-12",
         "name": "Jamhuri Day",
         "message": {
-          "title": "Celebrate Jamhuri Day",
-          "body": "Play 3 games & earn 50 bonus points!"
+          "title": "Happy Jamhuri Day!",
+          "body": "Enjoy your Jamhuri Day gift of 30 points!"
         }
       },
       {
@@ -86,15 +83,15 @@
         "name": "Christmas Day",
         "message": {
           "title": "Merry Christmas!",
-          "body": "Play 3 games & earn 50 bonus points!"
+          "body": "Enjoy your Christmas gift of 30 points!"
         }
       },
       {
         "date": "2025-12-26",
         "name": "Boxing Day",
         "message": {
-          "title": "Boxing Day Bonus",
-          "body": "Unbox your bonus! Play 3 games, get 50 points."
+          "title": "Boxing Day Bonus!",
+          "body": "Enjoy your Boxing Day gift of 30 points!"
         }
       }
     ]
