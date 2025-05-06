@@ -15,13 +15,13 @@
       "evening_rush": {
         "title": "Traffic Bonus",
         "body": "Stuck in traffic? Make it fun! Play 3 games between 5pm-8pm to earn 30 extra points!"
-      },
-      "test_code": {
+      }
+    },
+
+    "test_code": {
       "date": "2025-05-06",
       "title": "Test Triggered",
       "body": "This is a test popup for today."
-    }
-
     },
 
     "public_holidays": [
