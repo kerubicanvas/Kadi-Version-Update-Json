@@ -9,11 +9,11 @@
     "messages": {
       "weekend": {
         "title": "Weekend Bonus Vibes!",
-        "body": "It’s the weekend! Play 9 games & earn 100 bonus points!"
+        "body": "It’s the weekend!"
       },
       "evening_rush": {
         "title": "Traffic Bonus",
-        "body": "Stuck in traffic? Make it fun! Play 3 games between 5pm-8pm to earn 50 extra points!"
+        "body": "Stuck in traffic? Make it fun!"
       },
       "test_code": {
         "date": "2025-05-06",
